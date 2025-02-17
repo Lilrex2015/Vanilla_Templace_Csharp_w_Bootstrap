@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Vanilla_Template.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Vanilla_Template.1t0n4wmau8.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Vanilla_Template.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Vanilla_Template.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Vanilla_Template.props",
+      "PackagePath": "build\\Vanilla_Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Vanilla_Template.props",
+      "PackagePath": "buildMultiTargeting\\Vanilla_Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Vanilla_Template.props",
+      "PackagePath": "buildTransitive\\Vanilla_Template.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
