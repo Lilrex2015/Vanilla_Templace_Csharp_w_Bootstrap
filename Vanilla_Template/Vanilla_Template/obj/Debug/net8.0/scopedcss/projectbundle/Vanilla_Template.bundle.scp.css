@@ -1,4 +1,8 @@
 /* _content/Vanilla_Template/Components/Layout/MainLayout.razor.rz.scp.css */
+
+:root[b-bdm6p4hmmh] {
+  
+}
 .page[b-bdm6p4hmmh] {
     position: relative;
     display: flex;
@@ -10,18 +14,17 @@ main[b-bdm6p4hmmh] {
 }
 
 html[data-bs-theme="dark"][b-bdm6p4hmmh] {
-    --backgroundColor = black;
+
 }
 
 html[data-bs-theme="light"][b-bdm6p4hmmh] {
-    --backgroundColor = white;
+   
 }
 
-/* this controls the side menu color*/
 .sidebar[b-bdm6p4hmmh] {
-    background-color: var(--backgroundColor); /* Use Bootstrap's body background color */
+    background-color: var(--bs-body-bg); /* Use Bootstrap's body background color */
+    color: var(--bs-success);
 }
-
 
 .top-row[b-bdm6p4hmmh] {
     background-color: var(--bs-body-bg); /* Use Bootstrap's body background color */

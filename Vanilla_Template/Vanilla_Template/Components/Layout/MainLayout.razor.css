@@ -1,3 +1,7 @@
+
+:root {
+  
+}
 .page {
     position: relative;
     display: flex;
@@ -9,18 +13,17 @@ main {
 }
 
 html[data-bs-theme="dark"] {
-    --backgroundColor = black;
+
 }
 
 html[data-bs-theme="light"] {
-    --backgroundColor = white;
+   
 }
 
-/* this controls the side menu color*/
 .sidebar {
-    background-color: var(--backgroundColor); /* Use Bootstrap's body background color */
+    background-color: var(--bs-body-bg); /* Use Bootstrap's body background color */
+    color: var(--bs-success);
 }
-
 
 .top-row {
     background-color: var(--bs-body-bg); /* Use Bootstrap's body background color */

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1eAXlssHs6usjDBxe0zxbGc0gdmeEwsJx2ExiyADykE=",
+  "Hash": "Yp5PqpyRO8ZAt1/f1VgzanfJNqbMr4eJ4siSlfDFDmA=",
   "Source": "Vanilla_Template",
   "BasePath": "_content/Vanilla_Template",
   "Mode": "Default",
@@ -8702,8 +8702,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "1t0n4wmau8",
-      "Integrity": "K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU=",
+      "Fingerprint": "p58zturg74",
+      "Integrity": "88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Vanilla_Template.styles.css"
@@ -8723,8 +8723,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "1t0n4wmau8",
-      "Integrity": "K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU=",
+      "Fingerprint": "p58zturg74",
+      "Integrity": "88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Vanilla_Template.bundle.scp.css"
@@ -37393,96 +37393,6 @@
       ]
     },
     {
-      "Route": "Vanilla_Template.1t0n4wmau8.bundle.scp.css",
-      "AssetFile": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Vanilla_Template.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6884"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 23:04:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1t0n4wmau8"
-        },
-        {
-          "Name": "label",
-          "Value": "Vanilla_Template.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU="
-        }
-      ]
-    },
-    {
-      "Route": "Vanilla_Template.1t0n4wmau8.styles.css",
-      "AssetFile": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Vanilla_Template.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6884"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 23:04:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1t0n4wmau8"
-        },
-        {
-          "Name": "label",
-          "Value": "Vanilla_Template.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU="
-        }
-      ]
-    },
-    {
       "Route": "Vanilla_Template.bundle.scp.css",
       "AssetFile": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Vanilla_Template.bundle.scp.css",
       "Selectors": [],
@@ -37493,7 +37403,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6884"
+          "Value": "6920"
         },
         {
           "Name": "Content-Type",
@@ -37501,11 +37411,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU=\""
+          "Value": "\"88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 23:04:47 GMT"
+          "Value": "Tue, 18 Feb 2025 00:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37515,7 +37425,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU="
+          "Value": "sha256-88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U="
+        }
+      ]
+    },
+    {
+      "Route": "Vanilla_Template.p58zturg74.bundle.scp.css",
+      "AssetFile": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Vanilla_Template.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 00:23:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p58zturg74"
+        },
+        {
+          "Name": "label",
+          "Value": "Vanilla_Template.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U="
+        }
+      ]
+    },
+    {
+      "Route": "Vanilla_Template.p58zturg74.styles.css",
+      "AssetFile": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Vanilla_Template.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 00:23:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p58zturg74"
+        },
+        {
+          "Name": "label",
+          "Value": "Vanilla_Template.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U="
         }
       ]
     },
@@ -37530,7 +37530,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6884"
+          "Value": "6920"
         },
         {
           "Name": "Content-Type",
@@ -37538,11 +37538,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU=\""
+          "Value": "\"88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 23:04:47 GMT"
+          "Value": "Tue, 18 Feb 2025 00:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37552,7 +37552,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K7g8oQVuvvG5rtnkE8xyrsjLUgFb4H40tYVVTzNeboU="
+          "Value": "sha256-88beV7DSuc30FTgWQxMq1Bhi9RDyp7hhXv+Z6B6i81U="
         }
       ]
     }
