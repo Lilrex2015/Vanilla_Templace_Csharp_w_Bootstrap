@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9u3cF/Ur6LJz0ee7ddvT8nSl4tbXwygbcQlVtpuA4OE=",
+  "Hash": "8GujyysqALkNu39m79bTL7MrpA5w4DUUMSYIhxljDK4=",
   "Source": "Vanilla_Template",
   "BasePath": "_content/Vanilla_Template",
   "Mode": "Default",
@@ -8791,6 +8791,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
+      "SourceId": "Vanilla_Template",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\",
+      "BasePath": "_content/Vanilla_Template",
+      "RelativePath": "custom_styles/vanilla_custom#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ieq5ssxefc",
+      "Integrity": "6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\custom_styles\\vanilla_custom.scss"
     },
     {
       "Identity": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\favicon.png",
@@ -37307,6 +37328,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "custom_styles/vanilla_custom.ieq5ssxefc.scss",
+      "AssetFile": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieq5ssxefc"
+        },
+        {
+          "Name": "label",
+          "Value": "custom_styles/vanilla_custom.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A="
+        }
+      ]
+    },
+    {
+      "Route": "custom_styles/vanilla_custom.scss",
+      "AssetFile": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:46:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A="
         }
       ]
     },

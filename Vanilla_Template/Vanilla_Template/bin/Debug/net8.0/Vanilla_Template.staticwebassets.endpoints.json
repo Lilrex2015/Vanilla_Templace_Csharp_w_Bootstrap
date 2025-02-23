@@ -28580,6 +28580,88 @@
       ]
     },
     {
+      "Route": "custom_styles/vanilla_custom.ieq5ssxefc.scss",
+      "AssetFile": "custom_styles/vanilla_custom.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:46:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ieq5ssxefc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A="
+        },
+        {
+          "Name": "label",
+          "Value": "custom_styles/vanilla_custom.scss"
+        }
+      ]
+    },
+    {
+      "Route": "custom_styles/vanilla_custom.scss",
+      "AssetFile": "custom_styles/vanilla_custom.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:46:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6jCT3bGDxE9dwGEE3IPxmqgihlGSzBW3AmggUoyTi7A="
+        }
+      ]
+    },
+    {
       "Route": "favicon.ifv42okdf2.png",
       "AssetFile": "favicon.png",
       "Selectors": [],

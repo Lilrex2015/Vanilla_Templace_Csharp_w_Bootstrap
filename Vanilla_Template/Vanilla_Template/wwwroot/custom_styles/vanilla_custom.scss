@@ -1,0 +1,8 @@
+﻿// Import Bootstrap’s source SCSS
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Your custom styles to override Bootstrap
+.btn-primary {
+    background-color: #ff5733; // Example: changes primary button color
+    border-color: #ff5733;
+}
