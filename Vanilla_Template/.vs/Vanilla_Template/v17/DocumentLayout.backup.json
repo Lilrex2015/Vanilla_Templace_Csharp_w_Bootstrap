@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\wwwroot\\custom_styles\\vanilla_custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\wwwroot\\custom_styles\\vanilla_custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,12 +11,32 @@
       "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\wwwroot\\custom_styles\\vanilla_custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\wwwroot\\custom_styles\\vanilla_custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|d:\\programming_projects\\vanilla_templace_csharp_w_bootstrap\\vanilla_template\\vanilla_template\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04F2F1D9-D0A4-4B97-B4E4-110A0F3DA30E}|Vanilla_Template\\Vanilla_Template.csproj|solutionrelative:vanilla_template\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,44 +46,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "vanilla_custom.scss",
-              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
-              "RelativeDocumentMoniker": "Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
-              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
-              "RelativeToolTip": "Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-02-23T18:46:36.537Z",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Program.cs",
+              "RelativeDocumentMoniker": "Vanilla_Template\\Program.cs",
+              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Program.cs",
+              "RelativeToolTip": "Vanilla_Template\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T22:57:31.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Vanilla_Template\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Vanilla_Template\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Vanilla_Template\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Vanilla_Template\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T21:16:07.05Z"
+              "WhenOpened": "2025-02-23T21:18:37.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Vanilla_Template\\Components\\App.razor",
+              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\App.razor",
+              "RelativeToolTip": "Vanilla_Template\\Components\\App.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T21:15:28.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Vanilla_Template\\wwwroot\\app.css",
+              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\app.css",
+              "RelativeToolTip": "Vanilla_Template\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-17T21:16:10.345Z",
+              "WhenOpened": "2025-02-23T21:15:25.268Z",
               "EditorCaption": ""
             },
             {
@@ -82,13 +108,14 @@
               "RelativeDocumentMoniker": "Vanilla_Template\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Vanilla_Template\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T21:16:08.299Z"
+              "WhenOpened": "2025-02-17T21:16:08.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Vanilla_Template\\Components\\Layout\\NavMenu.razor.css",
@@ -96,19 +123,47 @@
               "RelativeToolTip": "Vanilla_Template\\Components\\Layout\\NavMenu.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-17T21:16:12.174Z"
+              "WhenOpened": "2025-02-17T21:16:12.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Vanilla_Template\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Vanilla_Template\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T21:16:07.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Vanilla_Template\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwF4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-17T21:16:10.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\App.razor",
-              "RelativeDocumentMoniker": "Vanilla_Template\\Components\\App.razor",
-              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\Components\\App.razor",
-              "RelativeToolTip": "Vanilla_Template\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T21:15:28.653Z"
+              "Title": "vanilla_custom.scss",
+              "DocumentMoniker": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
+              "RelativeDocumentMoniker": "Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
+              "ToolTip": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
+              "RelativeToolTip": "Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-23T18:46:36.537Z",
+              "EditorCaption": ""
             }
           ]
         }

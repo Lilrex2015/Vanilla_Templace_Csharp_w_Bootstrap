@@ -1,8 +1,27 @@
-﻿// Import Bootstrap’s source SCSS
-@import "../node_modules/bootstrap/scss/bootstrap";
+﻿@use "../../../node_modules/bootstrap/scss/bootstrap" as *;
 
-// Your custom styles to override Bootstrap
+html {
+    background-color: #212529; /* Dark mode default until JS kicks in */
+}
+
+[data-bs-theme="dark"] {
+    background-color: #212529; /* Explicit dark mode */
+}
+
+[data-bs-theme="light"] {
+    background-color: #f8f9fa; /* Light mode */
+}
+
 .btn-primary {
-    background-color: #ff5733; // Example: changes primary button color
-    border-color: #ff5733;
+    background-color: goldenrod !important;
+    border-color: #39FF14 !important;
+}
+
+[data-bs-theme="dark"] .navbar-dark {
+    background-color: #1a2b3c;
+}
+
+[data-bs-theme="light"] .navbar-dark {
+    background-color: #f8f9fa;
+    color: #212529;
 }

@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\css\\vanilla_custom.css",
+      "PackagePath": "staticwebassets\\css\\vanilla_custom.css"
+    },
+    {
+      "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\css\\vanilla_custom.css.map",
+      "PackagePath": "staticwebassets\\css\\vanilla_custom.css.map"
+    },
+    {
       "Id": "D:\\Programming_Projects\\Vanilla_Templace_Csharp_w_Bootstrap\\Vanilla_Template\\Vanilla_Template\\wwwroot\\custom_styles\\vanilla_custom.scss",
       "PackagePath": "staticwebassets\\custom_styles\\vanilla_custom.scss"
     },
