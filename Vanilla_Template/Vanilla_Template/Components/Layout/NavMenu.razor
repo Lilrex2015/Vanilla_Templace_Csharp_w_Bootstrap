@@ -1,28 +1,116 @@
 ﻿<div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
         <a class="navbar-brand" href="">Vanilla_Template</a>
-       
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu" aria-controls="navMenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
     </div>
 </div>
 
-<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+<nav class="flex-column navbar-dark" id="navMenu">
+    <div class="nav-item px-3">
+        <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+            <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+        </NavLink>
+    </div>
 
-<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
-    <nav class="flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
-            </NavLink>
+    <!-- Page 1 Dropdown -->
+    <div class="nav-item px-3">
+        <a class="nav-link dropdown-toggle" href="#" @onclick="() => ToggleSubmenu(1)" aria-expanded="@(IsSubmenuOpen(1))">
+            <span class="bi bi-folder-fill" aria-hidden="true"></span> Page 1
+        </a>
+        <div id="page1Submenu" class="@(IsSubmenuOpen(1) ? "collapse show" : "collapse")">
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 1-1</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 1-2</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 1-3</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 1-4</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 1-5</a>
+            </div>
         </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
-            </NavLink>
+    </div>
+
+    <!-- Page 2 Dropdown -->
+    <div class="nav-item px-3">
+        <a class="nav-link dropdown-toggle" href="#" @onclick="() => ToggleSubmenu(2)" aria-expanded="@(IsSubmenuOpen(2))">
+            <span class="bi bi-folder-fill" aria-hidden="true"></span> Page 2
+        </a>
+        <div id="page2Submenu" class="@(IsSubmenuOpen(2) ? "collapse show" : "collapse")">
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 2-1</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 2-2</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 2-3</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 2-4</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 2-5</a>
+            </div>
         </div>
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
-            </NavLink>
+    </div>
+
+    <!-- Page 3 Dropdown -->
+    <div class="nav-item px-3">
+        <a class="nav-link dropdown-toggle" href="#" @onclick="() => ToggleSubmenu(3)" aria-expanded="@(IsSubmenuOpen(3))">
+            <span class="bi bi-folder-fill" aria-hidden="true"></span> Page 3
+        </a>
+        <div id="page3Submenu" class="@(IsSubmenuOpen(3) ? "collapse show" : "collapse")">
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 3-1</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 3-2</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 3-3</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 3-4</a>
+            </div>
+            <div class="nav-item px-4">
+                <a class="nav-link" href="#">Subpage 3-5</a>
+            </div>
         </div>
-    </nav>
-</div>
+    </div>
+</nav>
+
+@code {
+    private HashSet<int> openSubmenus = new();
+
+    protected override void OnInitialized()
+    {
+        Console.WriteLine("NavMenu initialized");
+    }
+
+    private void ToggleSubmenu(int submenuId)
+    {
+        Console.WriteLine($"ToggleSubmenu called for ID: {submenuId}");
+        if (openSubmenus.Contains(submenuId))
+        {
+            openSubmenus.Remove(submenuId);
+            Console.WriteLine($"Closed submenu {submenuId}");
+        }
+        else
+        {
+            openSubmenus.Add(submenuId);
+            Console.WriteLine($"Opened submenu {submenuId}");
+        }
+        Console.WriteLine($"Open submenus now: {string.Join(", ", openSubmenus)}");
+        StateHasChanged();
+    }
+
+    private bool IsSubmenuOpen(int submenuId) => openSubmenus.Contains(submenuId);
+}

@@ -10,7 +10,6 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <HeadOutlet />
     <script>
-        // Set theme immediately before DOM renders
         (function() {
             const savedTheme = localStorage.getItem('theme') || 'dark';
             document.documentElement.setAttribute('data-bs-theme', savedTheme);
@@ -18,11 +17,10 @@
     </script>
 </head>
 <body>
-    <Routes />
+    <Routes @rendermode="@(new InteractiveServerRenderMode(prerender: false))" />
     <script src="_framework/blazor.web.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script type="text/javascript">
-        // Sync checkbox and handle toggle
         document.addEventListener('DOMContentLoaded', () => {
             const savedTheme = localStorage.getItem('theme') || 'dark';
             const switchCheckbox = document.getElementById('flexSwitchCheckDefault');
@@ -36,7 +34,6 @@
             }
         });
 
-        // Reapply theme after Blazor navigation
         Blazor.addEventListener('enhancedload', () => {
             const savedTheme = localStorage.getItem('theme') || 'dark';
             document.documentElement.setAttribute('data-bs-theme', savedTheme);
